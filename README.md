@@ -1,41 +1,41 @@
-### Привіт! Пишу веб-застосунки на Next.js і TypeScript
+### Hi! I build web apps with Next.js and TypeScript
 
-Full-stack: інтерфейс на React, сервер на Server Actions, дані через Prisma в PostgreSQL або SQLite. До вебу були C++, Qt і Unreal Engine.
+Full-stack: React on the front end, Server Actions on the server, data through Prisma in PostgreSQL or SQLite. Before the web, I worked with C++, Qt and Unreal Engine.
 
-**Портфоліо зі скриншотами:** [mariia157.github.io](https://mariia157.github.io)
+**Portfolio with screenshots:** [mariia157.github.io](https://mariia157.github.io)
 
 ---
 
 #### [Taskflow](https://github.com/Mariia157/task-manager)
 
-Трекер задач для команди з кількох відділів. Дошки як у Trello, а також чотири рівні доступу, запити на погодження, підзадачі, щоденні задачі, звіти в PDF і Telegram-бот зі сповіщеннями.
+A task tracker for a team with several departments. Trello-style boards plus four access levels, approval requests, subtasks, daily tasks, PDF reports and a Telegram bot with notifications.
 
 `Next.js 16` `TypeScript` `Prisma` `SQLite` `dnd-kit` `PDFKit` `Telegram Bot API` `Vitest`
 
-<a href="https://github.com/Mariia157/task-manager"><img src="img/tf-board.webp" alt="Taskflow: канбан-дошка" width="100%"></a>
+<a href="https://github.com/Mariia157/task-manager"><img src="img/tf-board.webp" alt="Taskflow: kanban board" width="100%"></a>
 
 #### [Nihongo SRS](https://github.com/Mariia157/japanese-study-web)
 
-Тренажер японської для рівнів JLPT N5–N1. Слова, кандзі й граматика проходять через один алгоритм інтервальних повторень SM-2. Курс граматики за уроками Genki, фуригана над кандзі, аудіювання через Web Speech API, інтерфейс англійською та українською.
+A Japanese trainer for JLPT levels N5 to N1. Vocabulary, kanji and grammar all go through one SM-2 spaced repetition algorithm. A grammar course built on the Genki lessons, furigana above kanji, listening via the Web Speech API, and an interface in English and Ukrainian.
 
 `Next.js 16` `TypeScript` `Tailwind v4` `Prisma 7` `SQLite / PostgreSQL` `Recharts` `Vitest`
 
-<a href="https://github.com/Mariia157/japanese-study-web"><img src="img/jp-kanji.webp" alt="Nihongo SRS: сітка кандзі N5" width="100%"></a>
+<a href="https://github.com/Mariia157/japanese-study-web"><img src="img/jp-kanji.webp" alt="Nihongo SRS: N5 kanji grid" width="100%"></a>
 
 #### [RagePC](https://github.com/Mariia157/RagePC)
 
-Інтернет-магазин комплектуючих і готових збірок. Конфігуратор перевіряє сумісність сокета, пам'яті, форм-фактора й габаритів і рахує споживання збірки. Є каталог із фільтрами, кошик, замовлення й особистий кабінет, три мови та темна тема.
+An online store for PC components and prebuilt systems. The configurator checks socket, memory, form factor and size compatibility and estimates the build's power draw. Also a filtered catalog, cart, orders and an account page, three languages and a dark theme.
 
 `Next.js 16` `React 19` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS`
 
-<a href="https://github.com/Mariia157/RagePC"><img src="img/rage-configure.webp" alt="RagePC: конфігуратор ПК" width="100%"></a>
+<a href="https://github.com/Mariia157/RagePC"><img src="img/rage-configure.webp" alt="RagePC: PC configurator" width="100%"></a>
 
 ---
 
-#### Раніше
+#### Earlier
 
-| Проєкт | Що це | Стек |
+| Project | What it is | Stack |
 |---|---|---|
-| [TimeRun](https://github.com/Mariia157/TimeRun) | Прототип гри з режимами платформера, бою та сайд-скролера | C++, Unreal Engine 5 |
-| [DoodleJump](https://github.com/Mariia157/DoodleJump) | Аркадний платформер-стрибалка з ворогами й чорними дірами | C++, SDL |
-| [QtCalculator](https://github.com/Mariia157/QtCalculator) | Десктопний калькулятор | C++, Qt Widgets |
+| [TimeRun](https://github.com/Mariia157/TimeRun) | A game prototype with platforming, combat and side-scrolling modes | C++, Unreal Engine 5 |
+| [DoodleJump](https://github.com/Mariia157/DoodleJump) | An arcade jumping platformer with enemies and black holes | C++, SDL |
+| [QtCalculator](https://github.com/Mariia157/QtCalculator) | A desktop calculator | C++, Qt Widgets |
